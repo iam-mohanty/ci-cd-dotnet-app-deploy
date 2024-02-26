@@ -112,11 +112,5 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 - [Make](https://www.gnu.org/software/make/) - For streamlining Docker image builds.
 
 
-## Author ✍️
-
-- [Mathesh](https://www.linkedin.com/in/mathesh-me/) on LinkedIn.
-
-- You Can also check out my [Medium](https://medium.com/@mathesh-me) for more articles on DevOps Tools and Technologies.
-
 
 
